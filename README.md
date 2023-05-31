@@ -6,7 +6,7 @@
 
 Skills: / OBD Diagnostics/ C/ Python / 
 
- ![image](https://github.com/Joe-Chege/Joe-Chege/assets/122809157/a30975d9-0a4e-433b-962d-6269144dde71)
+!raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif
 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Electric vehicles, formula 1  
