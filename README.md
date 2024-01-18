@@ -8,7 +8,7 @@ Skills: / OBD Diagnostics/ C/ Python /
 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Electric vehicles, formula 1  
-- 📫 How to reach me: https://www.linkedin.com/in/Joe-chege/
+- 📫 How to reach me: http://www.linkedin.com/in/josephchegenjoroge
 - 😄 Pronouns: he/him 
 
 ![image](https://github.com/Joe-Chege/Joe-Chege/assets/122809157/9fccdff0-411a-40f0-bb4e-fdc490e3995e)
