@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I try to keep up with space news and facinating experiments that are being carried out in the world\
 💬 &nbsp;Feel free to reach out  for a consult .\
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Joe-Chege&label=Profile%20views&color=ce9927&style=flat" alt="Joe-Chege" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joe-Chege&label=Profile%20views&color=ce9927&style=flat" alt="Joe-Chege" /> </p>
 
 ![image](https://github.com/Joe-Chege/Joe-Chege/assets/122809157/9fccdff0-411a-40f0-bb4e-fdc490e3995e)
 ![image](https://github.com/Joe-Chege/Joe-Chege/assets/122809157/9e00ec2b-299d-497e-b0de-f84468fb8a00)
