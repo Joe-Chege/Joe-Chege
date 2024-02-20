@@ -1,12 +1,14 @@
 ### Hi there 👋, Am Joe Chege
 
 
-Skills: / OBD Diagnostics/ C/ Python / 
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning Python 
-- 💬 Ask me about Electric vehicles, formula 1  
-- 📫 How to reach me: http://www.linkedin.com/in/josephchegenjoroge
-- 😄 Pronouns: he/him 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I studied at the University of Eastern Africa Baraton.\
+🌱 &nbsp;Every day I keep on suprising myself since I have really grown alot..\
+✍️ &nbsp;In my free time, I try to keep up with space news and facinating experiments that are being carried out in the world\
+💬 &nbsp;Feel free to reach out  for a consult .\
+
 
 ![image](https://github.com/Joe-Chege/Joe-Chege/assets/122809157/9fccdff0-411a-40f0-bb4e-fdc490e3995e)
 ![image](https://github.com/Joe-Chege/Joe-Chege/assets/122809157/9e00ec2b-299d-497e-b0de-f84468fb8a00)
@@ -43,7 +45,7 @@ Skills: / OBD Diagnostics/ C/ Python /
 <p align="center">
 <a href="https://github.com/Joe-Chege">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joe-Chege&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohnM-Kahura&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joe-Chege&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
